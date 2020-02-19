@@ -1,0 +1,23 @@
+Package: Funclustering
+Type: Package
+Title: Functional Data Clustering
+Version: 1.0.3
+Date: 2019-04-10
+Authors@R: c(person("Mohamed", "Soueidatt", role = "aut", email = "msoueidatt@gmail.com"),
+             person("Cristian", "Preda", role = c("aut", "cre"), email = "cristian.preda@inria.fr"),
+             person("Julien", "Jacques", role = "aut"),
+             person("Vincent", "Kubicki", role = "ctb"),
+             person("Quentin", "Grimonprez", role = "ctb"))
+Copyright: Inria
+Description: This package proposes a model-based clustering algorithm for
+    multivariate functional data. The parametric mixture model, based on the
+    assumption of normality of the principal components resulting from a
+    multivariate functional PCA, is estimated by an EM-like algorithm. The main
+    advantage of the proposed algorithm is its ability to take into account the
+    dependence among curves.
+License: GPL (>= 2)
+Depends: fda (>= 2.2.6), R (>= 2.15.1), methods
+Imports: Rcpp (>= 0.11)
+LinkingTo: Rcpp, RcppEigen
+Encoding: UTF-8
+RoxygenNote: 7.0.2
