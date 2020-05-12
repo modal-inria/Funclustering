@@ -13,7 +13,7 @@ This package proposes a model-based clustering algorithm for multivariate functi
 ## Installation
 
 From github:
-```
+``` r
 library(devtools)
 install_github("modal-inria/Funclustering")
 ```
