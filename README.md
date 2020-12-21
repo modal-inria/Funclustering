@@ -1,6 +1,6 @@
 # Funclustering
 
-[![Travis build status](https://travis-ci.com/modal-inria/Funclustering.svg?branch=master)](https://travis-ci.com/modal-inria/Funclustering) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/modal-inria/Funclustering?branch=master&svg=true)](https://ci.appveyor.com/project/modal-inria/Funclustering)
+[![R-CMD-check](https://github.com/modal-inria/Funclustering/workflows/R-CMD-check/badge.svg)](https://github.com/modal-inria/Funclustering/actions)
 
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/Funclustering)](https://cran.r-project.org/package=Funclustering) [![Total Downloads](http://cranlogs.r-pkg.org/badges/grand-total/Funclustering?color=blue)](http://cranlogs.r-pkg.org/badges/grand-total/Funclustering) [![Downloads](https://cranlogs.r-pkg.org/badges/Funclustering)](https://cran.rstudio.com/web/packages/Funclustering/index.html)
 
